@@ -1,6 +1,0 @@
-tchappui/Django-4-by-Example
-https://github.com/tchappui/Django-4-by-Example.git
-
-Original:
-PacktPublishing/Django-4-by-example
-https://github.com/PacktPublishing/Django-4-by-example.git
